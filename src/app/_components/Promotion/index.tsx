@@ -44,7 +44,7 @@ const Promotion = () => {
         <div className={classes.textBox}>
             <h3 className={classes.title}>Deals of the month</h3>
             <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque corporis eum corrupti! Culpa dolorem natus aliquam eum aspernatur repellat earum est in. Distinctio doloribus nesciunt tempore cumque, praesentium asperiores mollitia.
+              Get all of your favourite items at a farly discounted price of upto 60%. Prepare for our new deals coming soon              
             </p>
 
             <ul className={classes.stats}>
